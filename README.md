@@ -9,6 +9,7 @@ To install a copy of the toolkit, open the terminal and type:
 ...
 
 git clone git@github.com:smangham/climate-analysis.git
+
 ...
 
 **This code is under development and not all features will work***
